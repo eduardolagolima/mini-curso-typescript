@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/eduardolagolima/mini-curso-typescript/issues"
   },
-  "homepage": "https://github.com/eduardolagolima/mini-curso-typescript#readme"
+  "homepage": "https://github.com/eduardolagolima/mini-curso-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
 }
