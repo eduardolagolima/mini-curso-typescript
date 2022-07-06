@@ -1,0 +1,20 @@
+{
+  "name": "mini-curso-typescript",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardolagolima/mini-curso-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardolagolima/mini-curso-typescript/issues"
+  },
+  "homepage": "https://github.com/eduardolagolima/mini-curso-typescript#readme"
+}
