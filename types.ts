@@ -50,3 +50,6 @@ let cart: object;
 cart = {
   key: 123,
 };
+
+// type inference
+let text = "text";
